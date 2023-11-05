@@ -1,3 +1,4 @@
+---
 - title: General Information
   type: map
   contents:
@@ -5,7 +6,6 @@
       value: Lukas Jarzembowski
     - name: Languages
       value: German, English
-
 - title: Education
   type: time_table
   contents:
@@ -15,28 +15,22 @@
       description:
         - Molecular Biophyics, Niemeyer Lab
         - Synaptic roles of Store-Operated Calcium Entry
-        
-     - title: Human- and Molecular Biology, Master of Science
+    - title: Human- and Molecular Biology, Master of Science
       institution: Saarland University, Germany
       year: 2018 - 2019
       description: Admitted to Fast-Track PhD program after 1 year (Grade 1.0)
-      
     - title: Human- and Molecular Biology, Bachelor of Science
       institution: Saarland University, Germany
       year: 2013 - 2018
       description: Grade 1.4
-
-
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Store-Operated Calcium Entry
-      items: 
+      items:
         - Stim
         - Orai
     - title: Presynaptic Function
-
-
 - title: Other Interests
   type: list
   contents:
