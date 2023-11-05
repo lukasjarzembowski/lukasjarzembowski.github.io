@@ -1,61 +1,67 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Lukas Jarzembowski",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lukas.jarzembowski@uks.eu",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
+  "work": [],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Saarland University, Germany",
+      "url": "https://www.uni-saarland.de/",
+      "area": "Molecular Biophyics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019-10-15",
+      "endDate": "2023",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Synaptic physiology of Store-Operated Calcium Entry"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "GradUS Global",
+      "date": "2022-01-01",
+      "awarder": "Universität des Saarlandes",
+      "summary": "Travel grant to attend the Gordon Research Conference on Synaptic Transmission, Italy."
+    }
+    {
+      "title": "SFB1027 Miniproposal",
+      "date": "2022-01-01",
+      "awarder": "Universität des Saarlandes",
+      "summary": ""
+    }
+    {
+      "title": "SFB1027 Miniproposal",
+      "date": "2018-01-01",
+      "awarder": "Universität des Saarlandes",
+      "summary": ""
+    }
+    {
+      "title": "Scholarship, 'Deutschlandstipendium'",
+      "date": "2018-01-01",
+      "awarder": "Universitätsgesellschaft des Saarlandes e. V.",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -71,7 +77,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": ["Music, Art"],
   "references": [],
   "projects": []
 }
