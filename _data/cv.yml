@@ -23,6 +23,7 @@
       institution: Saarland University, Germany
       year: 2013 - 2018
       description: Grade 1.4
+      
 - title: Academic Interests
   type: nested_list
   contents:
@@ -31,6 +32,7 @@
         - Stim
         - Orai
     - title: Presynaptic Function
+    
 - title: Other Interests
   type: list
   contents:
