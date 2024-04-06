@@ -45,14 +45,14 @@
                 "ImageJ Macro language"
             ],
             "level": "Advanced",
-            "name": "For image, data and statistical analysis"
+            "name": "Programming"
         },
         {
             "keywords": [
                 "R"
             ],
             "level": "Beginner",
-            "name": "For data and statistical analysis"
+            "name": "Programming"
         }
     ],
     "awards": [
@@ -69,16 +69,16 @@
             "summary": "Travel grant of 1200 EUR to attend the Gordon Research Conference on Synaptic Transmission, Italy."
         },
         {
-            "title": "SFB1027 Miniproposal",
+            "title": "SFB1027 Mini-Proposal",
             "date": "2022",
             "awarder": "Universität des Saarlandes",
-            "summary": "Awarded ~2000 EUR of research support"
+            "summary": "Awarded ~2000 EUR of research support (main applicant)"
         },
         {
-            "title": "SFB1027 Miniproposal",
+            "title": "SFB1027 Mini-Proposal",
             "date": "2018",
             "awarder": "Universität des Saarlandes",
-            "summary": "Awarded ~5000 EUR of equipment support"
+            "summary": "Awarded ~5000 EUR of equipment support (co-applicant)"
         },
         {
             "title": "Scholarship, 'Deutschlandstipendium'",
@@ -105,9 +105,6 @@
         },
         {
             "name": "Art/Photography"
-        },
-        {
-            "name": "Hiking/Trekking"
         }
     ],
     "references": [],
